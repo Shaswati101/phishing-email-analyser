@@ -1,0 +1,12 @@
+streamlit
+langchain
+faiss-cpu
+sentence-transformers
+langchain-google-genai
+SpeechRecognition
+gTTS
+streamlit-audiorecorder
+python-dotenv
+langchain-community
+langchain-text-splitters
+torchvision

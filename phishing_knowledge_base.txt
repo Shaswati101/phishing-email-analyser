@@ -1,0 +1,21 @@
+1. Urgency: "Act immediately" - Creates a false sense of urgency to force quick action.
+2. Urgency: "Your account will be suspended" - Threatens account loss to induce panic.
+3. Urgency: "Limited time offer" - Uses scarcity to pressure the victim.
+4. Urgency: "Action Required" - Often seen in subject lines to demand immediate attention.
+5. Spoofed Sender: Lookalike domains (e.g., paypa1.com instead of paypal.com) - Used to deceive users about the source.
+6. Spoofed Sender: Display name spoofing - Shows a familiar name (e.g., "CEO") but the actual email address is different.
+7. Spoofed Sender: Mismatched reply-to - The reply goes to a different, attacker-controlled address.
+8. Suspicious Link: URL shorteners - Hides the actual destination of the link (e.g., bit.ly, tinyurl).
+9. Suspicious Link: HTTP instead of HTTPS - Indicates an insecure connection, often used in quickly set up phishing sites.
+10. Suspicious Link: Mismatched anchor text - The displayed link text does not match the actual URL.
+11. Credential Harvesting: Fake login pages - Links to pages designed to look like legitimate services (banks, email).
+12. Credential Harvesting: Requests for OTP - Asking for One-Time Passwords directly via email or on a fake page.
+13. Credential Harvesting: Password reset scams - Claims a password reset was requested and provides a malicious link.
+14. Social Engineering: Impersonating banks - Claims there is fraudulent activity or a needed account update.
+15. Social Engineering: CEO fraud / BEC (Business Email Compromise) - Impersonates executives to request urgent wire transfers.
+16. Social Engineering: IT department impersonation - Asks users to "verify their credentials" or install a "security update".
+17. Social Engineering: Government body impersonation - Threatens legal action or offers fake tax refunds (e.g., IRS scams).
+18. Safe Indicator: Verified sender domains - Emails originating from the expected, authenticated domain.
+19. Safe Indicator: No urgency - The email tone is professional and gives ample time to respond.
+20. Safe Indicator: Proper greeting - Uses the recipient's actual name rather than generic greetings like "Dear Customer".
+21. Safe Indicator: No attachment requests - Does not unnecessarily ask to open unexpected attachments.
