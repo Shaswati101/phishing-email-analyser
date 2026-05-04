@@ -24,7 +24,7 @@ def init_vector_store():
     
     # ✅ Use Google embeddings instead of HuggingFace
     embeddings = GoogleGenerativeAIEmbeddings(
-        model="models/embedding-001",
+        model="models/text-embedding-004",
         google_api_key=get_api_key()
     )
     
