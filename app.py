@@ -49,7 +49,7 @@ else:
     uploaded_file = st.file_uploader("Choose an image", type=["png", "jpg", "jpeg"])
     
     if uploaded_file is not None:
-        st.image(uploaded_file, caption="Uploaded Screenshot", width = 'strech')
+        st.image(uploaded_file, caption="Uploaded Screenshot", use_container_width=True)
         with st.spinner("Extracting text from image..."):
             extracted_text = extract_text_from_image(uploaded_file.getvalue())
             
